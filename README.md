@@ -1,5 +1,5 @@
 # DDR-FPGA
-Dance Dance Revolution FPGA implimentation
+Dance Dance Revolution FPGA implementation
 
 
 # Description
